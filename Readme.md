@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга Смирнова](https://up.htmlacademy.ru/javascript/14/user/419685).
-* Наставник: `Неизвестно`.
+* Наставник: [Федотов Александр] (https://htmlacademy.ru/profile/id247015).
 
 ---
 
